@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Workout app</string>
+
+        <string name="expand_button">Expand Button</string>
+        <string name="workout_info">Workout Info</string>
+
+        <string name="title1">Day 1</string>
+        <string name="heading1">Full Body Warm-Up</string>
+        <string name="description1">Description: Start your fitness journey with
+        a full-body warm-up to prepare your muscles for the
+        upcoming workouts.</string>
+        <string name="title2">Day 2</string>
+        <string name="heading2">Upper Body Strength</string>
+        <string name="description2">Focus on building strength in your upper body with exercises targeting your arms,
+        shoulders, and chest.</string>
+        <string name="title3">Day 3</string>
+        <string name="heading3">Lower Body Strength</string>
+        <string name="description3">Strengthen your legs and glutes with a series of lower body exercises.</string>
+        <string name="title4">Day 4</string>
+        <string name="heading4">Core Workout</string>
+        <string name="description4">Engage your core muscles with a variety
+        of exercises designed to build a strong and stable core.</string>
+        <string name="title5">Day 5</string>
+        <string name="heading5">Cardio Blast</string>
+        <string name="description5">Get your heart pumping with a
+        high-intensity cardio workout.</string>
+        <string name="title6">Day 6</string>
+        <string name="heading6">Rest Day</string>
+        <string name="description6">Take a well-deserved rest day to allow your muscles to recover.</string>
+        <string name="title7">Day 7</string>
+        <string name="heading7">Full Body Workout</string>
+        <string name="description7">Combine exercises from all muscle groups for a comprehensive full-body workout.</string>
+        <string name="title8">Day 8</string>
+        <string name="heading8">Upper Body Strength</string>
+        <string name="description8">Continue building upper body strength with new exercises.</string>
+        <string name="title9">Day 9</string>
+        <string name="heading9">Lower Body Strength</string>
+        <string name="description9">Focus on your legs and glutes with a new set of lower body exercises</string>
+        <string name="title10">Day 10</string>
+        <string name="heading10">Core Workout</string>
+        <string name="description10">Strengthen your core with advanced exercises</string>
+        <string name="title11">Day 11</string>
+        <string name="heading11">Cardio Blast</string>
+        <string name="description11">Increase your cardiovascular endurance with a challenging cardio session.</string>
+        <string name="title12">Day 12</string>
+        <string name="heading12">Rest Day</string>
+        <string name="description12">Another rest day to help your body recover and prepare for the next set of workouts.</string>
+        <string name="title13">Day 13</string>
+        <string name="heading13">Full Body Workout</string>
+        <string name="description13">A balanced workout targeting all major muscle groups.</string>
+        <string name="title14">Day 14</string>
+        <string name="heading14">Upper Body Strength</string>
+        <string name="description14">Continue to build upper body strength with a focus on different muscle groups.</string>
+        <string name="title15">Day 15</string>
+        <string name="heading15">Lower Body Strength</string>
+        <string name="description15">Strengthen your lower body with a new set of exercises.</string>
+        <string name="title16">Day 16</string>
+        <string name="heading16">Core Workout</string>
+        <string name="description16">Engage your core with a variety of challenging exercises.</string>
+        <string name="title17">Day 17</string>
+        <string name="heading17">Cardio Blast</string>
+        <string name="description17">Push your cardiovascular limits with an intense cardio workout.</string>
+        <string name="title18">Day 18</string>
+        <string name="heading18">Rest Day</string>
+        <string name="description18">Rest and recover to keep your body in top shape.</string>
+        <string name="title19">Day 19</string>
+        <string name="heading19">Full Body Workout</string>
+        <string name="description19">A comprehensive workout targeting all muscle groups.</string>
+        <string name="title20">Day 20</string>
+        <string name="heading20">Upper Body Strength</string>
+        <string name="description20">Focus on building upper body strength with new exercises.</string>
+        <string name="title21">Day 21</string>
+        <string name="heading21">Lower Body Strength</string>
+        <string name="description21">Strengthen your legs and glutes with a new set of lower body exercises.</string>
+        <string name="title22">Day 22</string>
+        <string name="heading22">Core Workout</string>
+        <string name="description22">Engage your core with advanced exercises.</string>
+        <string name="title23">Day 23</string>
+        <string name="heading23">Cardio Blast</string>
+        <string name="description23">Increase your cardiovascular endurance with a challenging cardio session.</string>
+        <string name="title24">Day 24</string>
+        <string name="heading24">Rest Day</string>
+        <string name="description24">Another rest day to help your body recover and prepare for the next set of workouts.</string>
+        <string name="title25">Day 25</string>
+        <string name="heading25">Full Body Workout</string>
+        <string name="description25">A balanced workout targeting all major muscle groups.</string>
+        <string name="title26">Day 26</string>
+        <string name="heading26">Upper Body Strength</string>
+        <string name="description26">Continue to  build upper body strength with a focus on different muscle groups.</string>
+        <string name="title27">Day 27</string>
+        <string name="heading27">Lower Body Strength</string>
+        <string name="description27">Strengthen your lower body with a new set of exercises.</string>
+        <string name="title28">Day 28</string>
+        <string name="heading28">Core Workout</string>
+        <string name="description28">Engage your core with a variety of challenging exercises.</string>
+        <string name="title29">Day 29</string>
+        <string name="heading29">Cardio Blast</string>
+        <string name="description29">Push your cardiovascular limits with an intense cardio workout.</string>
+        <string name="title30">Day 30</string>
+        <string name="heading30">Full Body Workout</string>
+        <string name="description30">:Finish strong with a comprehensive full-body workout.</string>
+
+</resources>
